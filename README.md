@@ -10,8 +10,8 @@ non-linear_least_squares.py
 
 #第九章聚类
 ##k-means
-##层次聚类
 k-means.py
+##层次聚类
 hierarchical_clustering.py
 ##密度聚类
 dbscan.py
@@ -31,8 +31,16 @@ info.py
 random_forest_classifier.py
 ##隐马尔可夫模型
 hidden_markov_model.py
-
+##遗传算法 背包问题
+genetic1.py
+##遗传算法 极大值问题
+genetic2.py
 
 #第十四章
-
+##文本分类
+naive_bayes_multinomial.py
+##k近邻
+k_neighbors.py
+##svm
+svm_classification.py
 
