@@ -44,3 +44,6 @@ k_neighbors.py
 ##svm
 svm_classification.py
 
+
+#sql部分
+sql.txt
